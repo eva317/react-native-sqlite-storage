@@ -1,3 +1,7 @@
+# Forked for
+- react-native-sqlite-storage@3.3.10 + android-native bundled libs of react-native-sqlite-storage@6.0.1 to support FTS5
+- use the branch: new-android-native or tag:3.3.10-new-android-native
+
 # react-native-sqlite-storage
 SQLite3 Native Plugin for React Native for both Android (Classic and Native), iOS and Windows
 
